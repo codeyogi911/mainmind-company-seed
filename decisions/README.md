@@ -1,3 +1,9 @@
+---
+title: Decisions
+kind: decision
+access-scope: core
+write-class: ruled
+---
 # decisions
 
 Rulings, in the founder's own words, dated. Never summarised.

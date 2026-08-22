@@ -1,6 +1,8 @@
 ---
 title: Authority
 id: org-authority
+access-scope: core
+write-class: ruled
 ---
 # Authority
 

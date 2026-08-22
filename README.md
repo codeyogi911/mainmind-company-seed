@@ -13,7 +13,8 @@ editor, and take it anywhere. Nothing here is locked to a service.
    a template will behave like a template.
 2. **`AUTHORITY.md`** — what an agent may never do without you. Read it
    properly once and change the limits that are wrong for you.
-3. **`processes/daily-review.md`** — one process to start from.
+3. **`ACCESS.md`** — which knowledge compartments each teammate may discover.
+4. **`processes/daily-review.md`** — one process to start from.
 
 ## The folders
 
@@ -32,6 +33,8 @@ reads the shape as an instruction about where things belong.
 ## Connecting it
 
 Install Mainmind on this repository and it reads it on every push, so your
-agents are never working from yesterday. It never writes here.
+agents are never working from yesterday. Teammate agents never receive Git;
+they deposit evidence-backed lessons or propose reviewed changes through
+Mainmind's governed write surface.
 
 https://mainmind.app/start

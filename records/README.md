@@ -1,3 +1,9 @@
+---
+title: Records
+kind: record
+access-scope: core
+write-class: conserved
+---
 # records
 
 The facts work cites: products, systems, suppliers, reports.

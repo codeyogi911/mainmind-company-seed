@@ -4,6 +4,8 @@ id: decision-0001
 kind: decision
 status: ruled
 date: 2026-01-01
+access-scope: core
+write-class: ruled
 ---
 # Refunds under 50 do not need me
 

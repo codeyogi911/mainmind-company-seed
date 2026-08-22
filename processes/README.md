@@ -1,3 +1,9 @@
+---
+title: Processes
+kind: process
+access-scope: core
+write-class: conserved
+---
 # processes
 
 How recurring work is done. Conserved: changing one needs the founder's ruling.

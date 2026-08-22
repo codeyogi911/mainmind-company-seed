@@ -3,6 +3,8 @@ title: Daily review
 id: process-daily-review
 kind: process
 status: active
+access-scope: core
+write-class: conserved
 ---
 # Process: daily review
 
