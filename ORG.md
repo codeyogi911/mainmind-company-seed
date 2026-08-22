@@ -1,6 +1,8 @@
 ---
 title: Your company
 id: org
+access-scope: core
+write-class: ruled
 ---
 # Your company
 

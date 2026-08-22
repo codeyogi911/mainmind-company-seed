@@ -1,3 +1,9 @@
+---
+title: Lessons
+kind: lesson
+access-scope: core
+write-class: ledger
+---
 # lessons
 
 What went wrong once and should not again. Each process reads its own first.

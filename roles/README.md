@@ -1,3 +1,9 @@
+---
+title: Roles
+kind: role
+access-scope: core
+write-class: conserved
+---
 # roles
 
 What each role may do. Authority attaches to the role, never to the person.
