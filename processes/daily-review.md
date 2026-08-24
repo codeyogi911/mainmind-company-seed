@@ -14,9 +14,27 @@ looking at it rather than by being told.
 > not apply and add the ones that do. A process you actually follow beats a
 > thorough one you ignore.
 
-## When
+## What it is for
 
-Every morning, before you start.
+Learning the shape of your business by looking at it — orders, messages and
+money, read every morning and reported in one short brief.
+
+## When to use it
+
+Every morning, before you start. Not for anything urgent mid-day; that is what
+the rest of `processes/` grows to cover.
+
+## What this process lets an operator do
+
+Nothing beyond [AUTHORITY.md](../AUTHORITY.md). This process reads, reconciles
+and reports; every act in it is already granted there, and step 4 is where it
+stops.
+
+A process *can* allow more than an operator could do under `AUTHORITY.md`
+alone — never more than `AUTHORITY.md` permits, but more than the file grants
+by default. That is what this heading is for. This one does not need it, and
+saying so is the point: a blank here would leave you wondering whether anyone
+had thought about it.
 
 ## What it does
 
@@ -38,6 +56,11 @@ Every morning, before you start.
 - Send anything to a customer.
 - Spend anything outside the standing limits.
 - Guess a date, a price, or a cause. "I do not know yet" is a complete answer.
+
+## How you know it is done
+
+The brief is in front of you, everything reserved is prepared and held rather
+than half-performed, and anything unknown is named as unknown.
 
 ## What it leaves behind
 

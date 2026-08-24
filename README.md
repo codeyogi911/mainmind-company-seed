@@ -13,13 +13,16 @@ editor, and take it anywhere. Nothing here is locked to a service.
    a template will behave like a template.
 2. **`AUTHORITY.md`** — what an agent may never do without you. Read it
    properly once and change the limits that are wrong for you.
-3. **`processes/daily-review.md`** — one process to start from.
+3. **`AUTHORING.md`** — how to write and review a change here without two
+   files ending up disagreeing.
+4. **`processes/daily-review.md`** — one process to start from, and
+   `processes/index.md`, which is how work finds the right one.
 
 ## The folders
 
 | Path | What lives there |
 |---|---|
-| `processes/` | how recurring work is done |
+| `processes/` | how recurring work is done, and `index.md` routes to them |
 | `records/` | the facts work cites: products, systems, reports |
 | `lessons/` | what went wrong once and should not again |
 | `decisions/` | your rulings, in your words, dated |
