@@ -38,8 +38,10 @@ stale and be rewritten, unlike the rest of the file.*
 ## How work happens
 
 1. You say what you want. The operator finds the matching **Process** in
-   `processes/` and opens a task under it. If no process matches, it drafts a
-   **Proposal** for one and waits for your ruling. Growth, not error.
+   `processes/` and opens a task under it. If no process matches, it follows
+   `processes/nothing-fits.md`: it does the smallest honest version inside the
+   permission it already has, and leaves a **Proposal** for the missing process
+   in `proposals/` for you to rule on. Growth, not error.
 2. The work is performed. Every claim in the output cites a **Record** or an
    order id. That is what evidence means here.
 3. You rule the judgment, and your words are kept exactly as you said them.
