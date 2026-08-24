@@ -1,3 +1,15 @@
+> [!WARNING]
+> **This repository is retired and archived. Do not start from it.**
+>
+> The canonical starting point is
+> **[codeyogi911/organizational-seed](https://github.com/codeyogi911/organizational-seed)**
+> — that is what Mainmind actually generates a new company file from
+> (`SEED_TEMPLATE`), and it is the Apache-2.0 open standard.
+>
+> This repo was the earlier duplicate starter. It is kept for history only;
+> nothing reads it, and a check in the product fails if anything is configured
+> to point here again.
+
 # Your company file
 
 This repository is your business, written down: the rules your AI agents read
